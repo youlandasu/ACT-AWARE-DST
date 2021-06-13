@@ -1,0 +1,7 @@
+save/
+output/
+data/
+model/
+model_act_hybrid
+*.pyc
+*.ipynb
