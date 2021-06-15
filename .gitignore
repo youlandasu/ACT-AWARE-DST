@@ -3,5 +3,7 @@ output/
 data/
 model/
 model_act_hybrid
+res_act_hybrid
+eval_act_sp
 *.pyc
 *.ipynb
