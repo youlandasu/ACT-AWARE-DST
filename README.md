@@ -42,4 +42,16 @@ mkdir ./data/elmo_embeddings
 ```
 To evaluate on the dev set, change the target file to *./data/preddev_act.json*.
 
-
+---
+## Citation
+If you want to cite this paper, the bibtex is listed below:
+```
+@inproceedings{su21_interspeech,
+  author={Ruolin Su and Ting-Wei Wu and Biing-Hwang Juang},
+  title={{Act-Aware Slot-Value Predicting in Multi-Domain Dialogue State Tracking}},
+  year=2021,
+  booktitle={Proc. Interspeech 2021},
+  pages={236--240},
+  doi={10.21437/Interspeech.2021-138}
+}
+```
